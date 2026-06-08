@@ -4,6 +4,7 @@ replicaCount: 3
 
 service:
   port: 5111
+  targetPort: 3111
 
 resources:
   requests:

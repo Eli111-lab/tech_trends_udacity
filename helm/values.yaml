@@ -8,7 +8,7 @@ replicaCount: 1
 
 service:
   port: 4111
-  targetPort: 4111
+  targetPort: 3111
 
 resources:
   requests:
